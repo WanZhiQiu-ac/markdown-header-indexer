@@ -2,12 +2,13 @@
   "name": "markdown-header-indexer",
   "displayName": "Markdown Header Indexer",
   "description": "Add or remove hierarchical numbering (like 1.1, 1.2.3) to Markdown headings",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "publisher": "WanZhiQiu",
   "repository": {
     "type": "git",
     "url": "https://github.com/WanZhiQiu-ac/markdown-header-indexer.git"
   },
+  "icon": "icon.png",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
